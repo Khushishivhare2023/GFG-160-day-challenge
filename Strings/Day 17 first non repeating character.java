@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     static final int max_char=26;
     static char nonRepeatingChar(String s) {
